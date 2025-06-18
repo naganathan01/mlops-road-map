@@ -1,0 +1,47 @@
+# MLOps Technologies with Internal Topics - Excel Table Format
+
+| No. | Technology | Internal Topics/Components for MLOps |
+|-----|------------|--------------------------------------|
+| 1 | Python | pandas, numpy, scikit-learn, matplotlib, seaborn, pickle, joblib, pytest, logging, asyncio |
+| 2 | AWS | SageMaker, Lambda, S3, EC2, ECR, ECS, Step Functions, CloudFormation, IAM, VPC |
+| 3 | Docker | Dockerfile, multi-stage builds, container registry, image optimization, health checks, volumes, networks |
+| 4 | Kubernetes | Deployments, Services, ConfigMaps, Secrets, HPA, Ingress, Namespaces, Persistent Volumes |
+| 5 | Terraform | Providers, Resources, Variables, Outputs, State Management, Modules, Remote Backend |
+| 6 | MLflow | Experiments, Model Registry, Tracking, Projects, Model Serving, Artifacts, Metrics |
+| 7 | FastAPI | Endpoints, Pydantic Models, Dependency Injection, Background Tasks, Middleware, Documentation |
+| 8 | Prometheus | Metrics Collection, PromQL, Alert Rules, Service Discovery, Exporters, Recording Rules |
+| 9 | Grafana | Dashboards, Data Sources, Alerts, Panels, Variables, Templating, Annotations |
+| 10 | GitHub Actions | Workflows, Jobs, Steps, Actions, Secrets, Environments, Triggers, Artifacts |
+| 11 | Redis | Caching, Data Structures, Pub/Sub, Streams, Clustering, Persistence, Expiration |
+| 12 | MySQL | Tables, Indexes, Stored Procedures, Triggers, Replication, Backup, Performance Tuning |
+| 13 | PostgreSQL | JSONB, Views, Functions, Extensions, Partitioning, Full-text Search, Replication |
+| 14 | scikit-learn | Estimators, Pipelines, Feature Selection, Model Selection, Cross Validation, Preprocessing |
+| 15 | XGBoost | Boosting, Tree Methods, Hyperparameters, Feature Importance, Early Stopping, GPU Support |
+| 16 | Spring Boot | REST APIs, Dependency Injection, Auto Configuration, Actuator, Security, Data JPA |
+| 17 | Node.js | Express.js, NPM, Async/Await, Event Loop, Middleware, REST APIs, Error Handling |
+| 18 | Azure DevOps | Pipelines, Repositories, Boards, Artifacts, Test Plans, Release Management |
+| 19 | CloudWatch | Metrics, Logs, Alarms, Dashboards, Events, Insights, X-Ray, Application Monitoring |
+| 20 | EKS | Cluster Management, Node Groups, Fargate, Load Balancers, Service Mesh, RBAC |
+| 21 | SageMaker | Training Jobs, Endpoints, Model Registry, Pipelines, Feature Store, Studio |
+| 22 | Lambda | Functions, Triggers, Layers, Environment Variables, Dead Letter Queues, Monitoring |
+| 23 | S3 | Buckets, Objects, Versioning, Lifecycle Policies, Event Notifications, Cross-Region Replication |
+| 24 | EC2 | Instances, AMIs, Security Groups, Load Balancers, Auto Scaling, Elastic IPs |
+| 25 | IAM | Users, Groups, Roles, Policies, MFA, Access Keys, Service-Linked Roles |
+| 26 | Bash | Scripting, Variables, Loops, Functions, File Operations, Process Management, Error Handling |
+| 27 | YAML | Syntax, Data Types, Anchors, References, Multi-document, Validation, Schema |
+| 28 | JSON | Objects, Arrays, Data Types, Parsing, Validation, Schema, API Responses |
+| 29 | SQL | SELECT, JOIN, GROUP BY, Window Functions, Stored Procedures, Indexes, Query Optimization |
+| 30 | Infrastructure as Code | Templates, Modules, State Management, Version Control, Testing, Documentation |
+| 31 | CI/CD Pipelines | Build, Test, Deploy, Stages, Gates, Artifacts, Rollback, Monitoring |
+| 32 | Model Registry | Versioning, Metadata, Lineage, Approval Workflow, Stage Transitions, Model Serving |
+| 33 | Feature Engineering | Scaling, Encoding, Transformation, Selection, Creation, Validation, Pipeline |
+| 34 | Model Versioning | Semantic Versioning, Git Tags, Model Artifacts, Metadata, Rollback, Comparison |
+| 35 | Workflow Automation | Triggers, Conditions, Loops, Error Handling, Notifications, Scheduling, Dependencies |
+| 36 | Database Management | Schema Design, Indexing, Backup, Recovery, Performance Tuning, Security, Monitoring |
+| 37 | Kubia AI | Natural Language Processing, Automation Workflows, Integration APIs, Command Processing |
+| 38 | Freshservice | Ticket Management, Workflow Automation, API Integration, Reporting, SLA Management |
+| 39 | Slack | Bot Integration, Webhooks, Slash Commands, Interactive Components, Workflow Builder |
+| 40 | RDS | Multi-AZ, Read Replicas, Automated Backups, Parameter Groups, Performance Insights |
+| 41 | ECR | Image Registry, Repository Policies, Lifecycle Policies, Image Scanning, Cross-Region Replication |
+| 42 | ECS | Task Definitions, Services, Clusters, Load Balancing, Auto Scaling, Service Discovery |
+| 43 | Step Functions | State Machines, Tasks, Choice States, Parallel Execution, Error Handling, Monitoring |
