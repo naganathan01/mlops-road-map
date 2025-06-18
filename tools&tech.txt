@@ -1,0 +1,92 @@
+📋 Technical Skills List from Resume
+Complete Technology Stack Count
+Cloud Platforms & Services
+
+Amazon Web Services (AWS)
+EC2 (Elastic Compute Cloud)
+S3 (Simple Storage Service)
+Lambda
+SageMaker
+EKS (Elastic Kubernetes Service)
+IAM (Identity and Access Management)
+CloudWatch
+RDS (Relational Database Service)
+
+DevOps & Infrastructure
+
+Terraform
+Docker
+Kubernetes
+GitHub Actions
+Azure DevOps
+Infrastructure as Code
+
+Programming Languages
+
+Python
+SQL
+Bash
+YAML
+JSON
+Java
+
+MLOps Technologies
+
+MLflow
+FastAPI
+Model Registry
+Model Versioning
+Feature Engineering
+
+Monitoring & Observability
+
+Prometheus
+Grafana
+Model Performance Tracking
+
+Databases
+
+MySQL
+PostgreSQL
+Redis
+
+ML Libraries & Frameworks
+
+scikit-learn
+XGBoost
+
+Application Frameworks
+
+Spring Boot
+Node.js
+
+Integration & Collaboration Tools
+
+Kubia AI
+Freshservice
+Slack
+
+Automation Concepts
+
+CI/CD Pipelines
+Infrastructure Automation
+Workflow Automation
+Database Management
+
+
+📊 Total Count Summary
+Total Technologies: 43
+Breakdown by Category:
+
+Cloud & AWS Services: 9
+DevOps Tools: 6
+Programming Languages: 6
+MLOps Specific: 5
+Monitoring: 3
+Databases: 3
+ML Frameworks: 2
+Application Frameworks: 2
+Integration Tools: 3
+Automation Concepts: 4
+
+Core Technology Stack: 43 distinct technologies ⚡
