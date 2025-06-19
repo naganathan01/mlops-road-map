@@ -20,7 +20,8 @@ Focus: Performance, scale, and business impact
 - Security best practices
 🎯 Interview Success Strategy
 Your Winning Narrative:
-"I'm a DevOps engineer with 4+ years of production experience who strategically learned MLOps. While most MLOps candidates struggle with production deployment, I already know how to build reliable, scalable systems. I've applied this expertise to build ML systems that actually work in production."
+"I'm a DevOps engineer with 4+ years of production experience who strategically learned MLOps. While most MLOps candidates struggle with production deployment,
+I already know how to build reliable, scalable systems. I've applied this expertise to build ML systems that actually work in production."
 Key Talking Points:
 
 Infrastructure Expertise: "I understand production challenges most ML engineers don't"
